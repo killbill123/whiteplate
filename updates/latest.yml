@@ -1,0 +1,9 @@
+version: 1.6.4
+files:
+  - url: WhitePlate-Setup-1.6.4.exe
+    sha512: xu0wrP6mVbSHDr9W+mQyzxmjDO4DnDl2cHGX/x+jNEb5+yzS36lkoMX5NFUJwQRtNT0H19Q8q2NllHoOodMtww==
+    size: 101562914
+path: WhitePlate-Setup-1.6.4.exe
+sha512: xu0wrP6mVbSHDr9W+mQyzxmjDO4DnDl2cHGX/x+jNEb5+yzS36lkoMX5NFUJwQRtNT0H19Q8q2NllHoOodMtww==
+releaseDate: '2026-09-17T00:37:06.863Z'
+releaseNotes: Automatic updates now come from the internet (GitHub) - works on every computer without setting a path.
