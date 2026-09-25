@@ -1,9 +1,9 @@
-version: 1.6.4
+version: 1.6.5
 files:
-  - url: WhitePlate-Setup-1.6.4.exe
-    sha512: xu0wrP6mVbSHDr9W+mQyzxmjDO4DnDl2cHGX/x+jNEb5+yzS36lkoMX5NFUJwQRtNT0H19Q8q2NllHoOodMtww==
-    size: 101562914
-path: WhitePlate-Setup-1.6.4.exe
-sha512: xu0wrP6mVbSHDr9W+mQyzxmjDO4DnDl2cHGX/x+jNEb5+yzS36lkoMX5NFUJwQRtNT0H19Q8q2NllHoOodMtww==
-releaseDate: '2026-09-17T00:37:06.863Z'
-releaseNotes: Automatic updates now come from the internet (GitHub) - works on every computer without setting a path.
+  - url: WhitePlate-Setup-1.6.5.exe
+    sha512: FTYxBSM8gAPkFdLuZUTKKLEgJV4kIMTuGI7TSuwnafhA8NSQdyCPmQw7SNYib02//TfUMBFg/1gDqhLC1hd9yQ==
+    size: 101563255
+path: WhitePlate-Setup-1.6.5.exe
+sha512: FTYxBSM8gAPkFdLuZUTKKLEgJV4kIMTuGI7TSuwnafhA8NSQdyCPmQw7SNYib02//TfUMBFg/1gDqhLC1hd9yQ==
+releaseDate: '2026-09-25T06:01:03.067Z'
+releaseNotes: Cut-out artwork on a transparent background (e.g. a white T-shirt) now gets white ink on all its white areas, not only inside the letters.
